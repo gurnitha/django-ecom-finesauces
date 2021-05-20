@@ -147,6 +147,9 @@ https://github.com/Peter-Vought
 
 #### 3.4.4.3 Customizing how models are displayed
 
+	modified:   listings/admin.py
+	modified:   readme.md
+
 #### 3.5 Displaying our categories and products
 #### 3.5.1 Building our product list view
 #### 3.5.2 Creating template for our product list
