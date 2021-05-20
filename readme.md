@@ -133,7 +133,13 @@ https://github.com/Peter-Vought
 
 	modified:   listings/admin.py
 	modified:   readme.md
-	
+
+#### 3.4.4.1 Customizing how models are displayed - Overiding naming conventions from Categorys to Categoris
+
+	modified:   listings/models.py
+	modified:   readme.md
+
+
 #### 3.4.4 Customizing how models are displayed
 
 #### 3.5 Displaying our categories and products
