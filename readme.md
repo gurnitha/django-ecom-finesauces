@@ -51,12 +51,17 @@ https://github.com/Peter-Vought
 	  Applying contenttypes.0001_initial... OK
 	  ...
 	  Applying sessions.0001_initial... OK
-	  
+
 	modified:   readme.md
 
 #### 2.4 Local repository
+
+	DONE
+
 #### 2.5 Remote repository
 
+	DONE
+	
 3. Creating listings application
 
 3.1 Activating listings application
