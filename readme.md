@@ -140,7 +140,12 @@ https://github.com/Peter-Vought
 	modified:   readme.md
 
 
-#### 3.4.4 Customizing how models are displayed
+#### 3.4.4.2 Customizing how models are displayed - Displaying actual name of the category
+
+	modified:   listings/models.py
+	modified:   readme.md
+
+#### 3.4.4.3 Customizing how models are displayed
 
 #### 3.5 Displaying our categories and products
 #### 3.5.1 Building our product list view
