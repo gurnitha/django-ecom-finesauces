@@ -81,6 +81,10 @@ https://github.com/Peter-Vought
 	modified:   readme.md
 
 #### 3.2 Designing listings models
+
+	modified:   listings/models.py
+	modified:   readme.md
+	
 #### 3.3 Creating and applying migrations
 
 #### 3.4 Creating administration site
