@@ -8,7 +8,7 @@ https://github.com/Peter-Vought
 ### 1 Initial setup
 
 	PASS
-	
+
 	1.1 Windows Subsystem for Linux (WSL 2)
 	1.1.1 Checking requirements for running WSL 2
 	1.1.2 Enabling the Windows Subsystem for Linux
@@ -25,7 +25,21 @@ https://github.com/Peter-Vought
 ### 2 Starting our e-commerce project
 
 #### 2.1 Creating a Django project and run dev. server
+
+	(venv3922) ing| django-admin startproject config .
+
+	(venv3922) ing| tree config/
+	config/
+	├── __init__.py
+	├── settings.py
+	├── urls.py
+	└── wsgi.py
+
 #### 2.2 Updating project settings
+
+	modified:   config/settings.py
+	modified:   readme.md
+	
 #### 2.3 Initial migration
 #### 2.4 Local repository
 #### 2.5 Remote repository
@@ -134,4 +148,6 @@ https://github.com/Peter-Vought
 9.7 Setting up an SSL certificate
 
 Conclusion
-References
+References 
+
+
