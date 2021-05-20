@@ -39,8 +39,21 @@ https://github.com/Peter-Vought
 
 	modified:   config/settings.py
 	modified:   readme.md
-	
+
 #### 2.3 Initial migration
+
+	(venv3922) ing| python manage.py makemigrations
+	No changes detected
+	(venv3922) ing| python manage.py migrate
+	Operations to perform:
+	  Apply all migrations: admin, auth, contenttypes, sessions
+	Running migrations:
+	  Applying contenttypes.0001_initial... OK
+	  ...
+	  Applying sessions.0001_initial... OK
+	  
+	modified:   readme.md
+
 #### 2.4 Local repository
 #### 2.5 Remote repository
 
