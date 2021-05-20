@@ -61,23 +61,40 @@ https://github.com/Peter-Vought
 #### 2.5 Remote repository
 
 	DONE
-	
-3. Creating listings application
 
-3.1 Activating listings application
-3.2 Designing listings models
-3.3 Creating and applying migrations
-3.4 Creating administration site
-3.4.1 Creating superuser
-3.4.2 Accessing administration site
-3.4.3 Adding models to the administration site
-3.4.4 Customizing how models are displayed
-3.5 Displaying our categories and products
-3.5.1 Building our product list view
-3.5.2 Creating template for our product list
-3.5.3 Adding URL pattern for our view
-3.5.4 Filtering by category
-3.5.5 Product detail page
+#### 3. Creating listings application
+
+	(venv3922) ing| django-admin startapp listings
+
+	(venv3922) ing| tree -L 1
+	.
+	├── _docs
+	├── config
+	├── db.sqlite3
+	├── listings
+	├── manage.py
+	└── readme.md
+
+#### 3.1 Activating listings application
+
+	modified:   config/settings.py
+	modified:   readme.md
+
+#### 3.2 Designing listings models
+#### 3.3 Creating and applying migrations
+
+#### 3.4 Creating administration site
+#### 3.4.1 Creating superuser
+#### 3.4.2 Accessing administration site
+#### 3.4.3 Adding models to the administration site
+#### 3.4.4 Customizing how models are displayed
+
+#### 3.5 Displaying our categories and products
+#### 3.5.1 Building our product list view
+#### 3.5.2 Creating template for our product list
+#### 3.5.3 Adding URL pattern for our view
+#### 3.5.4 Filtering by category
+#### 3.5.5 Product detail page
 
 4. Adding reviews, starts and average reviews
 
